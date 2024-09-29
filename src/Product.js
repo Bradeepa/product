@@ -94,7 +94,7 @@ const Product = () => {
         // Clear all input field state values
     };
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', fontFamily: 'cursive' ,backgroundColor:'antiquewhite'}} >
+        <div style={{ display: 'flex', justifyContent: 'center', fontFamily: 'monospace' ,backgroundColor:'antiquewhite'}} >
             <div style={{ padding: '20px', textAlign: 'center' }}>
                 <h1 style={{ color: '#333' }}>Food Safety Assesment</h1>
                 <div style={{ margin: '10px 0' }}>
